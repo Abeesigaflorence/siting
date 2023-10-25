@@ -1,0 +1,33 @@
+. subdiv
+body{
+    background-color: blue;
+}
+.h1style{
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.images{
+    width: 80%;
+    height: 70%;
+}
+.subdiv{
+    float: left;
+    width: 25%;
+    height: auto;
+    border: 2px solid greenyellow;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding: auto;
+}
+.maindiv{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    background-color: chocolate;
+    margin-right: 30px;
+}
+.caption{
+    color: hotpink;
+    text-align: center;
+}
